@@ -1,4 +1,5 @@
 I’m @yusufsalehin
+AI Engineer at Ismartu Technology BD Limited
 M.Sc. and B.Sc. in CSE (Data Science) East West University. 
 Passionate about Artificial Intelligence, with interests in AI Agents, Large Language Models (LLMs), Machine Learning, Deep Learning, and Natural Language Processing.
 Skilled in Python and modern AI frameworks, with hands-on experience building intelligent AI applications.
